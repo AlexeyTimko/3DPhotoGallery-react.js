@@ -2,4 +2,4 @@
 
 Simple slider for pictures wrote on react.js
 
-Example: http://codepen.io/axeldreamer/pen/jrELOR
+Example: [CodePen](http://codepen.io/axeldreamer/pen/jrELOR)
