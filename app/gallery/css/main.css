@@ -17,7 +17,7 @@ body{
     padding-top: 50px;
 }
 .slider-wrap{
-    perspective-origin: 50% 100%;
+    perspective-origin: 50% -50%;
     perspective: 900px;
     position: relative;
     margin: auto;
