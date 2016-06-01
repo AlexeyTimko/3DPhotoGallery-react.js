@@ -1,4 +1,4 @@
-# 3DPhotoGallery-react.js
+# React 3DPhotoGallery
 
 Simple slider for pictures wrote on react.js
 
